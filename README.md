@@ -7,6 +7,10 @@
 
 Hello Microverse
 
+This is my first project in the Microvers path, so i'm exciting and i want lo learn more about this path, let's go to learn more about codification.
+
+please put your feedback.
+
 
 ## Built With
 
