@@ -1,7 +1,6 @@
 # Hello Microverse test
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
 
 > Description the project.
 
@@ -26,7 +25,7 @@ this my beginning projects on GitHub
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is MIT.md licensed.
 
 ## Author
 
