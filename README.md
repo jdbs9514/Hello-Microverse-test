@@ -7,9 +7,12 @@
 
 Hello Microverse
 
-This is my first project in the Microvers path, so i'm exciting and i want lo learn more about this path, let's go to learn more about codification.
+Today i make my first project in github, it´s a simple repo and have a 
+tag that say "Hello Microverse"
 
-please put your feedback.
+this my beginning projects on GitHub
+
+
 
 
 ## Built With
@@ -17,8 +20,20 @@ please put your feedback.
 - HTML
 - CSS
 - test.md
+- linters 
+
 
 
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
+## Author
+
+Josué David Benavides Salinas
+
+twitter:@JODA9514
+
+Gmail:jdbs9514@gmail.com
+
+GitHub: @jdbs9514
