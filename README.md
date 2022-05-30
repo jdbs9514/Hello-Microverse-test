@@ -12,8 +12,6 @@ tag that say "Hello Microverse"
 this my beginning projects on GitHub
 
 
-
-
 ## Built With
 
 - HTML
